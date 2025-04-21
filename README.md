@@ -4,4 +4,4 @@
 - Google Developer Group On Campus HUFS
     - 4th, 5th Core Member
 - Softwere Maestro 14th
-- whitehat school 2th
+- Whitehat School 2th
