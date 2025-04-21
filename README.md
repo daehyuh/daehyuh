@@ -1,4 +1,3 @@
-# 강대현
 ## Kang Daehyun
 - HUFS CES 23th
 - Google Developer Group On Campus HUFS
