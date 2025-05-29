@@ -1,6 +1,6 @@
 ## Kang Daehyun
-- HUFS CES 23th
+- HUFS CES 23
 - Google Developer Group On Campus HUFS
-    - 4th, 5th Core Member
-- Softwere Maestro 14th
-- Whitehat School 2th
+    - 4, 5 Core Member
+- Softwere Maestro 14
+- Whitehat School 2
