@@ -7,8 +7,8 @@
 - Software Engineer, Vitasoft, 2021.09 – 2023.01  
 
 ## 🧑‍🔬 연수 및 활동
-- 한국정보기술연구원 - Best of the Best 14기 Trainee, 2025.08 ~ 현재  
-- 한국정보기술연구원 - WhiteHat School 2기 Trainee, 2024.04 ~ 2024.09  
+- 한국정보기술연구원 - Best of the Best 14기, 2025.08 ~ 현재  
+- 한국정보기술연구원 - WhiteHat School 2기, 2024.04 ~ 2024.09  
 - 과학기술정보통신부 - SW 마에스트로 14기, 2023.04 ~ 2023.12  
 - GDG On Campus HUFS - Core Member (4기, 5기), 2023.08 ~ 현재  
 
