@@ -17,7 +17,7 @@
 ## 🛠️ 프로젝트
 
 ### [대현닷컴](https://github.com/daehyun-project) — 마피아42 편리도구 서비스
-- **Role**: PL, Fullstack  
+- **Role**: PO, PM, Fullstack  
 - **Stack**: React, Vite, Spring Boot, MariaDB  
 - **서비스 링크**: [https://대현.com](https://대현.com)  
 - **MAU**: 5.7K+
