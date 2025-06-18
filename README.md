@@ -1,3 +1,5 @@
+# README.md
+
 ## 🧑‍🎓 교육
 - HUFS (Hankuk Univ. of Foreign Studies), B.S. in Computer Engineering, 2023.03 ~ 현재  
 - Hanyang Technical High School, Dept. of Computer Networks, 2019.03 ~ 2023.01
