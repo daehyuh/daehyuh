@@ -36,7 +36,7 @@
 - **프로그램 (파이썬)** : [Repository](https://github.com/Grape-Office/Grape-Project)
 - **프로그램 (웹)**: [https://grape-office.github.io](https://grape-office.github.io)
 
-## 🏅 수상 내역
+## 🏅 수상
 
 | 연도 | 대회명 | 주최 | 수상 |
 |------|--------|------|------|
