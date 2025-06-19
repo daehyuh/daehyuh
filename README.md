@@ -5,8 +5,8 @@
   Dept. of Computer Networks (2019.03 ~ 2023.01)
 
 ## 🧑‍💼 경력
-- **CEO**, 쓰리이디엇츠 (2023.08 – 2024.06)  
-- **Software Engineer**, Vitasoft (2021.09 – 2023.01)
+- **CEO**, 쓰리이디엇츠 (2023.08 ~ 2024.06)  
+- **Software Engineer**, Vitasoft (2021.09 ~ 2023.01)
 
 ## 🧑‍🔬 연수 및 활동
 - **Best of the Best 14기**, 한국정보기술연구원 (2025.08 ~ 현재)  
