@@ -1,6 +1,6 @@
 ## 🧑‍🎓 교육
 - **HUFS (Hankuk Univ. of Foreign Studies)**  
-  B.S. in Computer Engineering (2023.03 ~ 현재)  
+  B.S. in Computer Engineering (2023.03 ~ present)  
 - **Hanyang Technical High School**  
   Dept. of Computer Networks (2019.03 ~ 2023.01)
 
@@ -9,10 +9,10 @@
 - **Software Engineer**, 비타소프트 (2021.09 ~ 2023.01)
 
 ## 🧑‍🔬 연수 및 활동
-- **Best of the Best 14기**, 한국정보기술연구원 (2025.08 ~ 현재)  
+- **Best of the Best 14기**, 한국정보기술연구원 (2025.08 ~ present)  
 - **WhiteHat School 2기**, 한국정보기술연구원 (2024.04 ~ 2024.09)  
 - **SW 마에스트로 14기**, 과학기술정보통신부 (2023.04 ~ 2023.12)  
-- **Core Member 4기, 5기**, GDG On Campus HUFS (2023.08 ~ 현재)
+- **Core Member**, GDG On Campus HUFS (2023.06 ~ present)
 
 ## 🛠️ 프로젝트
 
@@ -54,4 +54,4 @@
 | 자격증 | 발급 기관 | 취득일 | 비고 |
 |--------|------------|--------|------|
 | TOPCIT Level 3 | 정보통신기획평가원 | 2023.10 | 401점 |
-| 정보처리산업기사 | 한국산업인력공단 | 2022.09 | 국가기술자격
+| 정보처리산업기사 | 한국산업인력공단 | 2022.09 | 
