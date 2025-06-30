@@ -9,7 +9,7 @@
 - **Software Engineer**, 비타소프트 (2021.09 ~ 2023.01)
 
 ## 🧑‍🔬 연수 및 활동
-- **Best of the Best 14기**, 한국정보기술연구원 (2025.08 ~ present)  
+- **Best of the Best 14기**, 한국정보기술연구원 (2025.06 ~ present)  
 - **WhiteHat School 2기**, 한국정보기술연구원 (2024.04 ~ 2024.09)  
 - **SW 마에스트로 14기**, 과학기술정보통신부 (2023.04 ~ 2023.12)  
 - **Core Member**, GDG On Campus HUFS (2023.06 ~ present)
