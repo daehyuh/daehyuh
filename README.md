@@ -38,6 +38,7 @@
 - [정보처리산업기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=2290) `2022.09`
 
 ## Awards
+- 2026 1학기 Bring Your Own Ideas 대상, 총장상 `2024.06`
 - 2026 1학기 한국외대 컴퓨터공학부 최우수 캡스톤프로젝트 `2026.06`
 - 제1회 한국외대 G-Rise 캡스톤디자인경진대회, 최우수상 `2026.06`
 - 제3회 HUFSummer Hackathon 대상, 총장상 `2024.06`
